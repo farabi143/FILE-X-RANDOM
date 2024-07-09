@@ -1,3 +1,3 @@
 import os
-import GREAT.OLD
-GREAT.OLD.login()
+import OLD
+OLD.login()
